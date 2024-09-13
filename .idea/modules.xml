@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/CaixaMercado/CaixaMercado.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/CaixaMercado/CaixaMercado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/Casting/Casting.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/CastingImplicito/CastingImplicito.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/CastingImplicito/CastingImplicito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/Concatenacao/Concatenacao.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/Concatenacao/Concatenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/ConversorDeCelciusFahrenheit/ConversorDeCelciusFahrenheit.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/ConversorDeCelciusFahrenheit/ConversorDeCelciusFahrenheit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/ConversorDolarReal/ConversorDolarReal.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/ConversorDolarReal/ConversorDolarReal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/FormatandoStrings/FormatandoStrings.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/FormatandoStrings/FormatandoStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_CriandoPrimeiraAplicacao.iml" filepath="$PROJECT_DIR$/.idea/Java_CriandoPrimeiraAplicacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/LeituraDados/LeituraDados.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/LeituraDados/LeituraDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/Loop/Loop.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/LoopAlice/LoopAlice.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/LoopAlice/LoopAlice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/MediaNotas/MediaNotas.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/exerciciosJavaAlura_modulo2_vol1/MediaNotas/MediaNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/MetodoEqual/MetodoEqual.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/MetodoEqual/MetodoEqual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo1_vol1/OlaMundo/OlaMundo.iml" filepath="$PROJECT_DIR$/aulasJava_modulo1_vol1/OlaMundo/OlaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoFinal/ProjetoFinal.iml" filepath="$PROJECT_DIR$/ProjetoFinal/ProjetoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/RandomNumbers/RandomNumbers.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/RandomNumbers/RandomNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo2_vol1/ScreenMatch/ScreenMatch.iml" filepath="$PROJECT_DIR$/aulasJava_modulo2_vol1/ScreenMatch/ScreenMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/ScreenMatch_pt2/ScreenMatch_pt2.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/ScreenMatch_pt2/ScreenMatch_pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/UsandoWhile/UsandoWhile.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/UsandoWhile/UsandoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio2_modulo3_vol1/VerificacaoNumerica/VerificacaoNumerica.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio2_modulo3_vol1/VerificacaoNumerica/VerificacaoNumerica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio1_modulo3_vol1/exercicio1_modulo3_vol1.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio1_modulo3_vol1/exercicio1_modulo3_vol1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio3_modulo3_vol1/exercicio3_modulo3_vol1.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio3_modulo3_vol1/exercicio3_modulo3_vol1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio4_modulo3_vol1/exercicio4_modulo3_vol1.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio4_modulo3_vol1/exercicio4_modulo3_vol1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio5_modulo3_vol1/exercicio5_modulo3_vol1.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio5_modulo3_vol1/exercicio5_modulo3_vol1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio6_modulo3_vol1/exercicio6_modulo3_vol1.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio6_modulo3_vol1/exercicio6_modulo3_vol1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num1/exercicio_num1.iml" filepath="$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num1/exercicio_num1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num2/exercicio_num2.iml" filepath="$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num2/exercicio_num2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num3/exercicio_num3.iml" filepath="$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num3/exercicio_num3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num4/exercicio_num4.iml" filepath="$PROJECT_DIR$/aulasJava_modulo1_vol1/exerciciosJava_mod1_vol1/exercicio_num4/exercicio_num4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio2_modulo3_vol1/untitled/untitled.iml" filepath="$PROJECT_DIR$/aulasJava_modulo3_vol1/exerciciosJavaAlura_modulo3_vol1/exercicio2_modulo3_vol1/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
